@@ -1,0 +1,2 @@
+# Music-genre-classifier
+The goal of this project is to build and critically analyse some supervised Machine Learning algorithms, to automatically identify the genre of a song on the basis of its audio, metadata and textual features. That is, given a list of songs, our job is to implement one or more Machine Learning model(s), train them using the training dataset, and evaluate using the test validation and test dataset.
