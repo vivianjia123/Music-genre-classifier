@@ -11,3 +11,7 @@ The goal of this project is to build and critically analyse some supervised Mach
 3. Tdidf is used to process the tags and titles text features of the data, and then PCA is used to reduce the dimension and merge into the original feature data set.
 
 4. Standardize the data, then use Baseline, SVM, MLP and LGB models to train the training data, verify with the verification data, and finally predict the test data. Finally, the results of validation data are presented and compared.Model tuning optimization is performed and the performance of each model is evaluated based on the learning curve.
+
+# Final Mark
+
+35/40
